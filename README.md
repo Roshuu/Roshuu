@@ -24,6 +24,6 @@ Mam 22 lat i jestem pasjonatem technologii, z głębokim zainteresowaniem w dzie
 ### 📫 Kontakt
 - **Email:** jakubjaroszewski0@gmail.com
 
----
+----
 
 Dziękuję za odwiedzenie mojego profilu! Zapraszam do przeglądania moich repozytoriów i współpracy przy ciekawych projektach!
