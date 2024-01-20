@@ -1,16 +1,29 @@
-### Hi there 👋
 
-<!--
-**Roshuu/Roshuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Witaj na moim profilu GitHub!
 
-Here are some ideas to get you started:
+## 👋 Cześć, jestem Jakub!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mam 22 lat i jestem pasjonatem technologii, z głębokim zainteresowaniem w dziedzinie programowania. Obecnie studiuję Informatykę i Ekonometrię na Uniwersytecie Gdańskim, gdzie rozwijam moje umiejętności analityczne i techniczne.
+
+### 📚 Edukacja
+- **Uniwersytet Gdański**
+  - **Kierunek:** Informatyka i Ekonometria
+  - **Rok:** [III]
+
+### 💻 Technologie
+- **Aktualnie uczę się:**
+- Java (Spring Framework)
+- TypeScript (Angular)
+
+### 🤖 Pasje i zainteresowania
+- **Programowanie:** Fascynuje mnie możliwość tworzenia nowych rzeczy i rozwiązywania problemów za pomocą kodu.
+
+### 🌐 Społeczność
+- Chętnie angażuję się w projekty open-source i współpracuję z innymi programistami. Jeśli masz jakiś interesujący projekt lub potrzebujesz pomocy, śmiało się ze mną skontaktuj!
+
+### 📫 Kontakt
+- **Email:** jakubjaroszewski0@gmail.com
+
+---
+
+Dziękuję za odwiedzenie mojego profilu! Zapraszam do przeglądania moich repozytoriów i współpracy przy ciekawych projektach!
