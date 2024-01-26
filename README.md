@@ -16,10 +16,10 @@ Mam 22 lat i jestem pasjonatem technologii, z głębokim zainteresowaniem w dzie
 - TypeScript (Angular)
 
 ### 🤖 Pasje i zainteresowania
-- **Programowanie:** Fascynuje mnie możliwość tworzenia nowych rzeczy i rozwiązywania problemów za pomocą kodu.
+- **Programowanie**
+- **Wędkarstwo**
+- **Motoryzacja**
 
-### 🌐 Społeczność
-- Chętnie angażuję się w projekty open-source i współpracuję z innymi programistami. Jeśli masz jakiś interesujący projekt lub potrzebujesz pomocy, śmiało się ze mną skontaktuj!
 
 ### 📫 Kontakt
 - **Email:** jakubjaroszewski0@gmail.com
